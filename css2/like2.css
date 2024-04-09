@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(244, 255, 187);
+    text-align: center;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+  }
+.tukurikata{
+    margin-top: 60px;
+    margin-left: 30px;
+    text-align: left;
+}
+strong{
+    text-align: center;
+}
+.image {
+    height: 100px;
+}
+table {
+    background-color: rgb(255, 255, 255);
+}
+.a {
+    border-bottom: solid 3px #ff8902;
+}
+ul {
+    text-align: left;
+    margin-top: 30px;
+    border-bottom: solid 3px #ff8902;
+}

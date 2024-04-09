@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(244, 255, 187);
+}
+img {
+    width: 400px;
+    height: 250px;
+    object-fit: cover; 
+}
+h2{
+    text-align: center;
+    border-bottom: solid 3px #ff8902;
+}
+.flex{
+    display: flex;
+}
+H3{
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+.a {
+    margin-top: 50px;
+}
